@@ -1,3 +1,5 @@
+Got it! I’ll extract and structure the **results** from the data you provided, following the template you shared earlier. I’ll focus solely on presenting the results in a clear and organized manner, without including interpretations or queries. Let’s proceed step by step.
+
 ---
 
 ### **Results**
